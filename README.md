@@ -3,7 +3,8 @@
 ## Intent for go to specified apps
  
 
-- [Setting][intent://com.android.settings/#Intent;scheme=android-app;end](intent://com.android.settings/#Intent;scheme=android-app;end)
+- Setting
+  [intent://com.android.settings/#Intent;scheme=android-app;end](intent://com.android.settings/#Intent;scheme=android-app;end)
 - [Google Search](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
 - [Samsung My Files](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
 - [Youtube](intent://com.google.android.youtube/#Intent;scheme=android-app;end)
